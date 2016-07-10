@@ -45,28 +45,31 @@ Key interactions are searching the available room and filtering the results and 
 #### What did the site do well to allow the user to accomplish his goal effectively, efficiently and with good satisfaction?
 It shows a short background video behind the searching bar to show the good experience of the using of the AirBnB. During the searching  process, the result is really smart as I just need to type a few words and the desired results will be shown in the drop down list. One of the best thing is that it shows the most popular and best reviewed rooms to you immediately after searching. You don't need to make that filtering and comparison your self.
 #### What did the site do poorly when allowing the user to accomplish his goal effectively, efficiently and with good satisfaction?
-However the video does't works for me at lease. It is kind of slow and short, I was expecting it to be a little big longer. I think the video can be made much better in the future. Also in terms of the large photo at the home page which is used to show the user some guides and place recommendations. The looking style is kind of boring, also the same picture, no animation also.
+However the video does't works for me at lease. It is kind of slow and short, I was expecting it to be a little big longer. I think the video can be made much better in the future. Also in terms of the large photo at the home page which is used to show the user some guides and place recommendations. The looking style is kind of boring, also the same picture, no animation also. And one thing would also be awesome is that if AirBnB to change the searching background dynamically according to the user searching result. Like show the nice picture of London when London is search by the user.
 
-another professional review link below:
-*The review from[jasonah](http://blog.jasonshah.org/post/18135779651/airbnb-ux-wins-and-losses-how-the-airbnb-home)*
+another professional review link below(kind of out dated as it is in 2012, AirBnB has changed a lot since then.):
+*The review from [jasonah](http://blog.jasonshah.org/post/18135779651/airbnb-ux-wins-and-losses-how-the-airbnb-home)*
 
 
 ### Amazon.com
 
 #### Who is the key user? This isn't always clear, especially in marketplace sites, so take your best guess.
-
+Shopper. Very clear user.
 #### What is that user's number one critical goal when using the site? Be as specific as possible if there are multiple options here, e.g. "to purchase a red wagon" instead of "buy a toy".
-
+Number one goal is definitely to find the desired product as soon as possible.
 #### What is likely to make that user's experience particularly positive (i.e. provide good satisfaction)?
-
+Very nice and clean website without too much flashing advertisements. Smart navigation system that can help you find the product you want as soon as possible. Very fast purchase process. Good product descriptions that can let the user to know more about the product.
 ##### What is the approximate information architecture of the site? (sketch it out)
-
+The information architecture of the site is kind of like multidimensional hierarchy. Information architecture in Amazon is really big. Millions sellers with their products resulted in Millions of web-pages. But basically it looks like from a center page to product page according to the searching process.
 #### What is the flow through that architecture for the user who is accomplishing the critical goal you identified above?
-
+1. User google a product and find the product link on Amazon and go to the product link directly. (Assuming I am about to buy a ps4 console.) So after I googled the ps4. I found the amazon link at the very front, very nice feature. Great! Then I just clicked the link. In the amazon page, I was shown by several categories which asks me if I want to but a ps4 console? or a ps4 game or just ps4 accessories. Also below the category list, there is another bar shows the best seller with their product (two gift cards and one dragon ball game). After several category like that mentioned above, I finally find the searching results, and there are several consoles listed there, great. Now I picked one which is Uncharteded 4 limited edition bundle. It shows the prices tag and shipping policies. Look through the product descriptions and then I click the add to cart then I need to click the proceed to checkout.
+2. User go the home page and search the ps4 at the amazon search field. It shows a different result compared with the one comes from the google.
+It shows the play station store as well as the result list. The following is the same.
 #### What style(s) of navigation is/are used? Do they answer the key questions (Where am I and how did I get here? Where should I go next and how do I get there?)?
-
+The navigation style is structured category system. The navigation menu lies on the left side with lots of filtering options for differnt people. There is also another navbat on the top which can let the user to search and explore different categories of products. It does let me know where I am and following the link at the top navi bar I can easily go the position where I want.
 #### What key interactions does the user have? Are they clear and usable?
-
+Navigation is the key interaction.It is quiet clear as your mouse hover on the category the sublist will automatic show up. The animation is quiet appealing. Also when I entered the category the search bar will also adapt to search only the item in this category.
 #### What did the site do well to allow the user to accomplish his goal effectively, efficiently and with good satisfaction?
-
+A good thing is that unlike the other website. The home page of amazon is very clean and clear. The information there is not so overwhelming. Also the event or promotion is also to the point. Not too much useless promotion there. The search result is also very satisfying.
 #### What did the site do poorly when allowing the user to accomplish his goal effectively, efficiently and with good satisfaction?
+The product information display is still very pool. Some of them even don't have descriptions at all. Also as the home page of the amazon is very nice. The detailed page of the product looks not so appealing as too much information just flooded in all at once. I don't think the user want all the information listed all at once. From top to the bottom, you can see the product picture, the price, the deliver policies, the brief description, the recommended products, the similar products, what other people buys, production information, production description, the question area, the custom review. Really lots of information listed there. And the overall looking is just kind of old fashioned.
