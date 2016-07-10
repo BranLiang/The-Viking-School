@@ -29,23 +29,23 @@ The like and save function does not seem to be doing, as I just couldn't find th
 ### AirBnB.com
 
 #### Who is the key user? This isn't always clear, especially in marketplace sites, so take your best guess.
-
+Key user -- definitely there is no doubt that is young traveler who likes experiencing new things and meets new friends around the world.
 #### What is that user's number one critical goal when using the site? Be as specific as possible if there are multiple options here, e.g. "to purchase a red wagon" instead of "buy a toy".
-
+Unlike the traditional hotel booking Website. Through this AirBnB people here wants to find out the nicest house with friendly people to spend their holiday time.
 #### What is likely to make that user's experience particularly positive (i.e. provide good satisfaction)?
-
+Clear searching system. Smart filtering which can help find the proper room for the user. Also, the review system is also very important as this will normally drive the user's decision in the end. Easy payment method is also very important.
 ##### What is the approximate information architecture of the site? (sketch it out)
-
+AirBnB is kind of the daisy type of the information architecture. users will always return to the front page after finishing the booking process.
 #### What is the flow through that architecture for the user who is accomplishing the critical goal you identified above?
-
+Landing at the front-page --> Search for a destination and the date information --> Looking through the possible results along with its general information (overall picture and the location information) --> to the rooms specifically interested. --> to the purchase page --> finish the purchase and review the purchase --> to the home page and find more stories there.
 #### What style(s) of navigation is/are used? Do they answer the key questions (Where am I and how did I get here? Where should I go next and how do I get there?)?
-
+AirBnB is kind of like one page navigation style with many picture cards on it. The main navigation bar lies at the top the website, which is always accompanies with a short title to tell you where you are now. However, it can be hard for people to go to the home page as there is no clear button to show that at the top navbar. The only way to do it I find now is clicking the 'not so obvious' AirBnB logo button. But I don't think all people will find it out. if not then they are stuck there. Also after going through the tour-tips page, the user may want to decide to book a room now. However it would be strange that he/she can hardly find a place to make that booking. One thing also make the experience bad is that you seems can not change the website language as you wish. This would be really annoying for many users from my point of view as many of them are doing going abroad traveling and their language are different to their destination's language, however they can only use the language arranged by the AirBnB. What if they don't understand?
 #### What key interactions does the user have? Are they clear and usable?
-
+Key interactions are searching the available room and filtering the results and then finish the booking. During the period of the room comparing, one thing not clear to me is the price tag. As I searched for a room in Nanjing, and I am using an ip addresses in Hongkong. The price tag shows a dollar sign along with a HK money sign which is really confusing to me at first, and also I don't know if the price is for one night or for the total booking period. And this makes me thinking which is bad for a website.
 #### What did the site do well to allow the user to accomplish his goal effectively, efficiently and with good satisfaction?
-
+It shows a short background video behind the searching bar to show the good experience of the using of the AirBnB. During the searching  process, the result is really smart as I just need to type a few words and the desired results will be shown in the drop down list. One of the best thing is that it shows the most popular and best reviewed rooms to you immediately after searching. You don't need to make that filtering and comparison your self.
 #### What did the site do poorly when allowing the user to accomplish his goal effectively, efficiently and with good satisfaction?
-
+However the video does't works for me at lease. It is kind of slow and short, I was expecting it to be a little big longer. I think the video can be made much better in the future. Also in terms of the large photo at the home page which is used to show the user some guides and place recommendations. The looking style is kind of boring, also the same picture, no animation also.
 
 
 
