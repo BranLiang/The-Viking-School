@@ -47,7 +47,8 @@ It shows a short background video behind the searching bar to show the good expe
 #### What did the site do poorly when allowing the user to accomplish his goal effectively, efficiently and with good satisfaction?
 However the video does't works for me at lease. It is kind of slow and short, I was expecting it to be a little big longer. I think the video can be made much better in the future. Also in terms of the large photo at the home page which is used to show the user some guides and place recommendations. The looking style is kind of boring, also the same picture, no animation also.
 
-
+another professional review link below:
+*The review from[jasonah](http://blog.jasonshah.org/post/18135779651/airbnb-ux-wins-and-losses-how-the-airbnb-home)*
 
 
 ### Amazon.com
