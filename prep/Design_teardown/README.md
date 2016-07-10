@@ -50,15 +50,22 @@ Definitely modify the news title font and size, as well as the content font-fami
 
 ##Hoffington Post
 ###Open your eyes and ask yourself "who is the user?"
-
+People who wants to see news with pictures more than text.
 ###What is the user's critical goal? (or at least what do you think the site owner wants them to do?)
-
+Quickly find the interested news through looking through pictures rather than looking at the words.
 ###Does the visual hierarchy you sketched lead to that goal?
-
+Yes, it does. There are so many pictures there.
 ###What font families are most prominent on the site? (use the WhatFont add-on or your browser's developer tools to inspect this).
+Logo: ProximaNovaCond Extrabld  110px
+Top news title:  ProximaNovaCond 30px
+Trending title:  ProximaNovaCond 22px
+Subtopic title:  ProximaNovaCond 20px
+Main content:    NoteNashk Arabic 21px
 
+The most dominant font-family is ProximaNovaCond and NoteNashk.
 ###How do these font families contribute to or take away from the site's flow?
-
+ProximaNovaCond looks ... not bad. formal, clear and it also has strong impact for the user. Draws a lot of attention from the users. The NoteNashk is very clear and readable.
 ###How do the line spacings, sizes, colors and weights contribute to or take away from the site's flow?
-
+Color is black for all the titles and light gray for the Author. For the main content, the color is not black and it looks generally smooth to the user.  
 ###What would you improve to achieve a better hierarchy or flow?
+I would emphasis the category title a little bit more. As the color for the caterory there now in the page is kind of light and among so many dark bold titles, the category can hardly be find by the users, this will make the content in the whole page looks like they are all in the same category. user will easily get lost among so many titles.
