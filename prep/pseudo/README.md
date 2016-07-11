@@ -1,8 +1,16 @@
 # Pseudo practice for the viking school prep
 
-## Making grilled cheese
+## A logic game
 ```
-PROGRAM GrilledCheeseSandwich
-
+PROGRAM CounterGame
+  COUNT ORIGIN AT 1
+  WHILE COUNT LESS THAN 100
+    COUNT INCREMENT
+    IF DIVISIBLE BY 7 FLIP DIRECTION
+    IF DIVISIBLE BY 11 SKIP NEXT PERSON
+    WHEN NEGATIVE DIRECTION COUNT DECREMENT
+    MINUS 10 WHEN COUNT OVER 10
+    PLUS 10 WHEN COUNT UNDER 0
+  END
 END
 ```
