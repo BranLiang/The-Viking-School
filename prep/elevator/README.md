@@ -26,9 +26,19 @@ there is a small chance that it actually stops between floors by accident (it's 
 
 ```
 PROGRAM Elevator:
-    # other code
-    slow down the elevator if necessary
-    # other code
+    While running
+      Upper floor call
+        GoUpWhenUpperFloorButtonClicked If CheckIfFree
+        SlowDownIfNecessary
+        OpenTheDoorWhenSafe
+        CloseDoorWhenSafe
+      Down floor call
+        GoDownWhenUpperFloorButtonClicked If CheckIfFree
+        SlowDownIfNecessary
+        OpenTheDoorWhenSafe
+        CloseDoorWhenSafe
+      CallEmergency
+    End
 END
 
 PROGRAM CloseDoorWhenSafe
@@ -59,6 +69,14 @@ End
 PROGRAM CallEmergency
   If stopped in the middle between floors.
   Dial emergency number
+End
+
+PROGRAM CheckIfFree
+  If the door is closed and the speed is zero
+    Elevator free
+  ELSE
+    Elevator not Free
+  End
 End
 
 
